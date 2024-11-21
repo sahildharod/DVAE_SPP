@@ -1,4 +1,4 @@
-# DVAE_SPP
+## DVAE_SPP
 
 This is a project done as a part of the course EE782 : Advanced Topics in Machine Learning. The task we solved is to predict the closing prices of a stock for 5 days given the prices from the past 12 days. 
 
